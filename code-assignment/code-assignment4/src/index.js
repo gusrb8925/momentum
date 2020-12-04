@@ -1,5 +1,3 @@
-import "./styles.css";
-
 const select = document.querySelector(".js-select");
 
 function handleChange() {
