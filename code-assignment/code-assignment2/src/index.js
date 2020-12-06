@@ -1,3 +1,6 @@
+// <⚠️ DONT DELETE THIS ⚠️>
+import "./styles.css";
+// <⚠️ /DONT DELETE THIS ⚠️>
 const title = document.querySelector("body");
 
 function hadlerResize() {
