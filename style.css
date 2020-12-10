@@ -1,0 +1,12 @@
+body {
+  color: #34495e;
+}
+
+.css-form,
+.css-greetings {
+  display: none;
+}
+
+.showing {
+  display: block;
+}
